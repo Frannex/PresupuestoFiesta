@@ -1,0 +1,8 @@
+#Programa el cuál saca un presupuesto para tu salida a algun luga
+#Caracteristicas del programa
+#1- Calcular el dinero de tanto la entrada,como bebidas, etc
+#2- Hay 3 boliches:
+#-(Nombre1) en Peyrano
+#-(Nombre1) en Maximo paz
+#-(Nombre1) en Alcorta
+
